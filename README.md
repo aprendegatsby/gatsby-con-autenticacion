@@ -12,8 +12,21 @@ Codigo de ejemplo para crear un proyecto web Gatsby con autenticacion
 
 _Te ha servido? Tienes alguna sugerencia? [escríbenos un tweet](https://twitter.com/aprendegatsbyjs) y lo haremos!._
 
+## Mira el tutorial aqui
+
+<LINK A VIDEO HERE>
+
 ## 🚀 Cómo usar este repositorio
 
-code here
+### Localmente
 
-o puedes probarlo en [Codesandbox]()
+```bash
+git clone git@github.com:aprendegatsby/gatsby-con-autenticacion.git
+cd gatsby-con-autenticacion
+yarn
+yarn develop
+```
+
+### en Codesandbox
+
+[Codesandbox](https://codesandbox.io/s/github/aprendegatsby/gatsby-con-autenticacion)
